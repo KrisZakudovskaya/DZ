@@ -4,3 +4,6 @@ class Car:
         self.year = year
         def start_engine (self):
             print("Двигатель запущен!")
+my_car = Car ("Nissan", 2024)
+print (my_car.brand)
+print (my_car.year)
