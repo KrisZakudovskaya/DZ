@@ -9,3 +9,4 @@ def find_max(numbers):
     return max_num
 numbers = [ 1, 100, 32, 487, 467, 23, 678, 3]
 print("Максимальное число из списка: ", find_max(numbers))
+Этот алгоритм имеет временную сложность O(n)
